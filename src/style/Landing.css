@@ -1,0 +1,320 @@
+.myImage img{
+   width: 100%;
+   position: relative;
+}
+.delievery{
+    position: absolute;
+    top: 35%;
+    width: 251px;
+    left: 7%;
+    color:rgba(255, 255, 255, 1);
+    font-size: xx-large;
+    size: 47px;
+    
+}
+.rec{
+    box-shadow: 0px 4px 6px 1px #00000040;
+    background-color: #FFFFFF;
+    margin-right: 30%;
+    margin-right: 43%;
+    position: absolute;
+    left: 17%;
+    top: 52%;
+    width: 60%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
+}
+.img1{
+    position: absolute;
+    left: 10%;
+}
+.img2 {
+    position: absolute;
+    left: 27%;
+}
+
+.img4{
+    position: absolute;
+    left: 61%;
+}
+.img5{
+    position: absolute;
+    left: 80%;
+}
+.white-box{
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 400;
+    /* font-family: Titillium Web; */
+    letter-spacing: 0em;
+    line-height: 38px;
+    text-align: center;
+}
+.indian-map{
+    justify-content: center;
+    padding-top: 2%;
+    margin-top: 1%;
+    background: linear-gradient(202.99deg, #000000 20.04%, #040A1A 56.86%);
+    color: rgba(255, 255, 255, 1);
+    height: 1420px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    size: 45px;
+}
+.nine{
+     color: rgba(255, 255, 255, 1);
+     width: 98px;
+     position: absolute;
+     left: 151px;
+     top: 126.5%;
+     font-size: larger;
+}
+.cities{
+    color:rgba(255, 255, 255, 0.4);
+    width: 118px;
+    position: absolute;
+    width: 118px;
+    left: 139px;
+    top: 133%;
+}
+.fivelakh{
+    color: rgba(255, 255, 255, 1);
+    width: 197px;
+    position: absolute;
+    left: 406px;
+    top: 126.5%;
+    font-size: larger;
+}
+
+.driverpartner{
+    color: rgba(255, 255, 255, 0.4);
+    width: 15%;
+    position: absolute;
+    left: 28.5%;
+    top: 134%;
+    
+
+}
+.onecrore{
+    color: rgba(255, 255, 255, 1);
+    width: 213px;
+    position: absolute;
+    left: 733px;
+    top: 126.5%;
+    font-size: larger;
+}
+
+.customer{
+    color: rgba(255, 255, 255, 0.4);
+    width: 15%;
+    position: absolute;
+    top: 134%;
+    left: 53.3%;
+
+}
+
+.tencrore{
+    color: rgba(255, 255, 255, 1);
+    width: 246px;
+    position: absolute;
+    left: 1053px;
+    top: 126.5%;
+    font-size: larger;
+}
+.trip{
+    color: rgba(255, 255, 255, 0.4);
+    width: 15%;
+    position: absolute;
+    left: 78%;
+    top: 134%;
+}
+
+.map{
+    width: 510px;
+    position: absolute;
+    left: 464px;
+    top: 158%;
+    align-items: center;
+}
+
+.para{
+    width: 857px;
+    position: absolute;
+    top: 221%;
+    left: 18%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: small;
+}
+.heading{
+    width: 533px;
+    position: absolute;
+    left: 400px;
+    top: 230%;
+
+}
+.rec8{
+    /* border: 2px solid red; */
+    width: 295px;
+    height: 270px;
+    overflow: hidden;
+    position: absolute;
+    top: 252%;
+    left: 11%;
+    border-bottom-left-radius: 17px;
+    border-bottom-right-radius: 17px;
+    border-top-right-radius: 17px;
+    
+}
+.imgicon{
+    width: 44px;
+    position: absolute;
+    top: 255%;
+    left: 193px;
+}
+.name1{
+    width: 49px;
+    position: absolute;
+    top: 255%;
+    left: 248px;
+    font-size: initial;
+    font-weight: 700;
+    size: 20px;
+    line-height: 30.42px;
+}
+.nagpur1{
+    color: rgba(255, 255, 255, 0.4);
+    width: 47px;
+    position: absolute;
+    top: 257.5%;
+    left: 248px;
+    font-size: x-small;
+    font-weight:400 ;
+    line-height: 22.82px;
+}
+.mytext{
+    width: 296px;
+    position: absolute;
+    top: 264%;
+    left:193px;
+    font-weight: 400;
+    font-size: initial;
+    text-align: left;
+}
+.rec9{
+    width: 295px;
+    height: 270px;
+    overflow: hidden;
+    position: absolute;
+    top: 252%;
+    left: 38%;
+    border-bottom-left-radius: 17px;
+    border-bottom-right-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.imgicon2{
+    width: 44px;
+    position: absolute;
+    top: 255%;
+    left: 563px;
+}
+
+.name2{
+    width: 49px;
+    position: absolute;
+    top: 255%;
+    left: 620px;
+    font-size: initial;
+    font-weight: 700;
+    size: 20px;
+    line-height: 30.42px;
+}
+.nagpur2{
+    color: rgba(255, 255, 255, 0.4);
+    width: 47px;
+    position: absolute;
+    top: 257.5%;
+    left: 619px;
+    font-size: x-small;
+    font-weight:400 ;
+    line-height: 22.82px;
+}
+.mytext2{
+    width: 296px;
+    position: absolute;
+    top: 264%;
+    left:568px;
+    font-weight: 400;
+    font-size: initial;
+    text-align: left;
+}
+.rec10{
+    width: 295px;
+    height: 270px;
+    overflow: hidden;
+    position: absolute;
+    top: 252%;
+    left: 65%;
+    border-bottom-left-radius: 17px;
+    border-bottom-right-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.imgicon3{
+    width: 44px;
+    position: absolute;
+    top: 255%;
+    left: 930px;
+}
+.name3{
+    width: 49px;
+    position: absolute;
+    top: 255%;
+    left: 987px;
+    font-size: initial;
+    font-weight: 700;
+    size: 20px;
+    line-height: 30.42px;
+}
+.nagpur3{
+    color: rgba(255, 255, 255, 0.4);
+    width: 47px;
+    position: absolute;
+    top: 257.5%;
+    left: 987px;
+    font-size: x-small;
+    font-weight:400 ;
+    line-height: 22.82px;
+}
+.mytext3{
+    width: 296px;
+    position: absolute;
+    top: 264%;
+    left:940px;
+    font-weight: 400;
+    font-size: initial;
+    text-align: left;
+}
+/* .whitepage{
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 807px;
+    position: absolute;
+    top: 305%;
+    left: 28.5%;
+    text-align: center;
+    width: 666px;
+    line-height: 25px;
+    font-weight: 400;
+} */
+

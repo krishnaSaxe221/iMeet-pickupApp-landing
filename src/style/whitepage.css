@@ -1,0 +1,11 @@
+.whitepage{
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 456px;
+    position: absolute;
+    top: 305%;
+    left: 28.5%;
+    text-align: center;
+    width: 666px;
+    line-height: 25px;
+    font-weight: 400;
+}
